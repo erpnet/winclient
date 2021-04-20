@@ -1,2 +1,3 @@
-# winclient
-Unfortunate repository, existing only to be published through GitHub Pages, resolving a buggy redirect from the desktop client.
+# ERP.net Desktop Client
+
+Welcome to the ERP.net Desktop Client!
